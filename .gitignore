@@ -1,0 +1,6 @@
+
+_site/*
+*Thumbs.db
+.idea/*
+*.iml
+target/*
